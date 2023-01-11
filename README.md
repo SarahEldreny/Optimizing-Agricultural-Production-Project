@@ -48,8 +48,13 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
 
    ## Steps of the algorithms
 Understanding the Dataset
+
 Understanding the Problem Statement
+
 Performing Descriptive Statistics
+
 Clustering Similar Crops
+
 Visualizing the Hidden Patterns
+
 Building a Machine Learning Classification Model
